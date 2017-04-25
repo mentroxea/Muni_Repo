@@ -1,0 +1,11 @@
+C:\Users\practica\Desktop\APP Decreto\Proyecto DecretosWeb1\BBC_Decretos.DAL\Decretos.WEB\bin\Decretos.WEB.dll
+C:\Users\practica\Desktop\APP Decreto\Proyecto DecretosWeb1\BBC_Decretos.DAL\Decretos.WEB\bin\Decretos.WEB.pdb
+C:\Users\practica\Desktop\APP Decreto\Proyecto DecretosWeb1\BBC_Decretos.DAL\Decretos.WEB\obj\Debug\Decretos.WEB.csprojResolveAssemblyReference.cache
+C:\Users\practica\Desktop\APP Decreto\Proyecto DecretosWeb1\BBC_Decretos.DAL\Decretos.WEB\obj\Debug\Decretos.WEB.dll
+C:\Users\practica\Desktop\APP Decreto\Proyecto DecretosWeb1\BBC_Decretos.DAL\Decretos.WEB\obj\Debug\Decretos.WEB.pdb
+\\192.168.1.252\Proyecto DecretosWeb1\BBC_Decretos.DAL\Decretos.WEB\bin\Decretos.WEB.dll.config
+\\192.168.1.252\Proyecto DecretosWeb1\BBC_Decretos.DAL\Decretos.WEB\bin\Decretos.WEB.dll
+\\192.168.1.252\Proyecto DecretosWeb1\BBC_Decretos.DAL\Decretos.WEB\bin\Decretos.WEB.pdb
+\\192.168.1.252\Proyecto DecretosWeb1\BBC_Decretos.DAL\Decretos.WEB\obj\Debug\Decretos.WEB.csprojResolveAssemblyReference.cache
+\\192.168.1.252\Proyecto DecretosWeb1\BBC_Decretos.DAL\Decretos.WEB\obj\Debug\Decretos.WEB.dll
+\\192.168.1.252\Proyecto DecretosWeb1\BBC_Decretos.DAL\Decretos.WEB\obj\Debug\Decretos.WEB.pdb

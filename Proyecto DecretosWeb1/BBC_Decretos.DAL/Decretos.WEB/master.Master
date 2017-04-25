@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master.master.cs" Inherits="Decretos.WEB.master" %>
+
+<!DOCTYPE html>
+<link href="StyleSheet1.css" rel="stylesheet" type="text/css" />
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <script>
+        var count = 1;
+        function setColor(btn, color) {
+            var property = document.getElementById(btn);
+            if (count == 0) {
+                property.style.backgroundColor = "#FFFFFF"
+                count = 1;
+            }
+            else {
+                property.style.backgroundColor = "#7FFF00"
+                count = 0;
+            }
+        }
+</script>
+</head>
+<body runat="server" id="masterpageBody">
+    <form id="form1" runat="server">
+    <div>
+        
+        
+
+        <br />
+            <div>
+                <asp:Button ID="btnInicio" CssClass="btnInicio" runat="server" Text="Inicio"  Width="200px" OnClick="btnInicio_Click"/>
+                <asp:Button ID="btnUsuario" CssClass="btnInicio" runat="server" Text="Usuario"  Width="200px" OnClick="btnUsuario_Click"/>
+                <asp:Button ID="btnDecPagos" CssClass="btnInicio" runat="server" Text="Decretos de Pago"  Width="200px" OnClick="btnDecPagos_Click" />
+                <asp:Button ID="btnDecAlcaldicios" CssClass="btnInicio" runat="server" Text="Decretos Alcaldicios"  Width="200px" OnClick="btnDecAlcaldicios_Click"/>
+                <asp:Button ID="btnDecExentos" CssClass="btnInicio" runat="server" Text="Decretos Exentos"   Width="200px" OnClick="btnDecExentos_Click"/>
+                <asp:Button ID="btnDecCompras" CssClass="btnInicio" runat="server" Text="Decretos de Compras" Width="200px" OnClick="btnDecCompras_Click"/>
+
+
+            </div>
+            <br />
+            <br />
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            
+
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
